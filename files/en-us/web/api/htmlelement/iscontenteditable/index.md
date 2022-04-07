@@ -1,4 +1,4 @@
----
+Web/API/HTMLElement/isContentEditable
 title: HTMLElement.isContentEditable
 slug: Web/API/HTMLElement/isContentEditable
 tags:
@@ -23,10 +23,9 @@ A boolean value.
 
 ## Examples
 
-### HTML
+### HTMLoppoidmassvideo
 
-```html
-<p id="myText1">Uneditable Paragraph</p>
+```htmlid="myText1">Uneditable Paragraph"fact"$</p>
 <p id="myText2" contentEditable="true">Editable Paragraph</p>
 
 <p id="infoText1">Can edit the first paragraph? </p>
